@@ -1,4 +1,4 @@
-# 🎲 Roll the Dice
+# Roll the Dice
 
 ## Descrizione
 
